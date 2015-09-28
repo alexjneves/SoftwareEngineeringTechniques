@@ -7,7 +7,6 @@ namespace InversionOfControl
     internal sealed class InversionOfControlUsage
     {
         /**
-        * 
         * Here is an example usage of our MessageWriter class. I am using a mocking framework to construct
         * a mock implementation of our storage abstraction. This allows us to modify the behavior of the storage
         * as needed for this particular test. We inject our storage instance into our MessageWriter. This test
